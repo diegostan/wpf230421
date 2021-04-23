@@ -1,0 +1,17 @@
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\bin\Debug\AppExemploMVVM.exe.config
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\bin\Debug\AppExemploMVVM.exe
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\bin\Debug\AppExemploMVVM.pdb
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\AppExemploMVVM.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\App.g.cs
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\AppExemploMVVM_MarkupCompile.cache
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\AppExemploMVVM_MarkupCompile.lref
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\MainWindow.baml
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\AppExemploMVVM.g.resources
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\AppExemploMVVM.Properties.Resources.resources
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\AppExemploMVVM.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\AppExemploMVVM.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\AppExemploMVVM.exe
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\AppExemploMVVM.pdb
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\Views\Inicio.g.cs
+C:\Users\diego\source\repos\AppExemploMVVM\AppExemploMVVM\obj\Debug\Views\Inicio.baml
